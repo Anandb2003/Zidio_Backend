@@ -30,7 +30,7 @@ ZIDIO CONNECT is a **Job & Internship Management System** built with **Spring Bo
 | Authentication | JWT + OTP via Email |
 | File Upload | Multipart (Resume/Profile Picture) |
 | API Docs    | SpringDoc OpenAPI / Swagger |
-| Build Tool  | Maven | Docker
+| Build Tool  | Maven | Docker |
 | Java Version | Java 17+ |
 
 ---
