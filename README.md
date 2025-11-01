@@ -1,4 +1,4 @@
-# 📡 ZIDIO CONNECT - Backend
+#  ZIDIO CONNECT - Backend
 
 ZIDIO CONNECT is a **Job & Internship Management System** built with **Spring Boot** to support a role-based platform for Students, Recruiters, and Admins. This backend exposes a RESTful API powering features like authentication, job posting, application tracking, resume uploads, and more.
 
@@ -30,7 +30,7 @@ ZIDIO CONNECT is a **Job & Internship Management System** built with **Spring Bo
 | Authentication | JWT + OTP via Email |
 | File Upload | Multipart (Resume/Profile Picture) |
 | API Docs    | SpringDoc OpenAPI / Swagger |
-| Build Tool  | Maven |
+| Build Tool  | Maven | Docker
 | Java Version | Java 17+ |
 
 ---
@@ -165,8 +165,8 @@ You can test all endpoints using:
 
 ## 📬 Contact
 
-**Developer:** Rupam Giri   
-🌐 LinkedIn: [linkedin.com/in/rupamgiri](https://www.linkedin.com/in/-rupam-giri/)
+**Developer:** Anand B
+🌐 LinkedIn: [https://www.linkedin.com/in/anandb-anandb2003/]
 
 ---
 
