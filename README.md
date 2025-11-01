@@ -4,6 +4,7 @@ ZIDIO CONNECT is a **Job & Internship Management System** built with **Spring Bo
 
 ---
 
+
 ## 📌 Features
 
 - ✅ Role-based Authentication (Student, Recruiter, Admin)
@@ -168,7 +169,7 @@ You can test all endpoints using:
 **Developer:** Anand B
 🌐 LinkedIn: [https://www.linkedin.com/in/anandb-anandb2003/]
 
----
+---![IMG_20251101_120258](https://github.com/user-attachments/assets/9a874c9a-9736-41ef-bd07-af59e452a875)
 
 ## 📄 License
 
